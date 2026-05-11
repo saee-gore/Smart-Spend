@@ -1,0 +1,27 @@
+{
+  "name": "smart-spend-dashboard",
+  "version": "1.0.0",
+  "description": "Privacy-first credit card analytics dashboard for Discover and Chase PDF statements. All parsing happens locally in your browser — no data ever leaves your machine.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "credit-card",
+    "dashboard",
+    "analytics",
+    "pdf",
+    "spending",
+    "finance",
+    "discover",
+    "chase",
+    "budget",
+    "transactions"
+  ],
+  "author": "Saee Gore <saee.a.gore@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {}
+}
